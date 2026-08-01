@@ -8,11 +8,13 @@ I tried accessing a website I found through Google that was supposed to help det
 
 So, I ended up writing a PowerShell script that detects the optimal MTU value for a NIC on Windows 10 and Windows 11.
 
+Since I was at it, I also created Linux and macOS versions.
+
 ## Directory structure
 
 - Windows/
 Windows valuersiom PowerShell script and README.md
 - Linux/
 Linux versiom Shell script and README.md
-
-
+- macOS/
+macOS version Shell script and README.md
